@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T08:55:44.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.229 Whale/2.10.123.37 Safari/537.36" etag="3M2WePDJQSHuNeMtrBlM" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-02T09:07:45.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.229 Whale/2.10.123.37 Safari/537.36" etag="XASINUpSdC4wACyrge8Y" version="14.9.3" type="github">
   <diagram id="70sO28HgEGNAzV1IfZhD" name="Page-1">
     <mxGraphModel dx="1722" dy="938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -140,16 +140,6 @@
         </mxCell>
         <mxCell id="HTkCgUYvAymexxdiye0X-70" value="BDI 검사 결과 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="90" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="HTkCgUYvAymexxdiye0X-71" value="" style="endArrow=classic;html=1;dashed=1;targetPerimeterSpacing=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTkCgUYvAymexxdiye0X-70" target="HTkCgUYvAymexxdiye0X-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="502" y="159.57999999999998" as="sourcePoint" />
-            <mxPoint x="382" y="158" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HTkCgUYvAymexxdiye0X-72" value="&amp;lt;&amp;lt;확장&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HTkCgUYvAymexxdiye0X-71">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTkCgUYvAymexxdiye0X-73" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.024;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HTkCgUYvAymexxdiye0X-1" target="HTkCgUYvAymexxdiye0X-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -325,7 +315,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HTkCgUYvAymexxdiye0X-124" value="명상 재생" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="584" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HTkCgUYvAymexxdiye0X-125" value="" style="endArrow=classic;html=1;dashed=1;targetPerimeterSpacing=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTkCgUYvAymexxdiye0X-124" target="HTkCgUYvAymexxdiye0X-16">
           <mxGeometry relative="1" as="geometry">
@@ -613,6 +603,15 @@
             <mxPoint x="381" y="1250" as="sourcePoint" />
             <mxPoint x="669.9999999999959" y="1492.31" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HTkCgUYvAymexxdiye0X-196" value="" style="endArrow=classic;html=1;targetPerimeterSpacing=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="HTkCgUYvAymexxdiye0X-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="381.00000000000455" y="130" as="sourcePoint" />
+            <mxPoint x="560" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTkCgUYvAymexxdiye0X-197" value="&amp;lt;&amp;lt;포함&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="HTkCgUYvAymexxdiye0X-196">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
